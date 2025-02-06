@@ -1,0 +1,28 @@
+﻿# GREENLAB-GITHUB-SEEDS-V001 Memo
+
+## Project: The7GameBot
+## Date: 06/02/2025
+
+### Checklist:
+1. Initialize Git repository
+2. Create/Update README.md
+3. Configure Git settings
+4. Add all files to repository
+5. Commit changes
+6. Set up remote origin
+7. Push changes to GitHub
+8. Verify synchronization
+
+### Command List:
+1. git init
+2. git config --global core.autocrlf false
+3. git add .
+4. git commit -m "Initial commit: Structure de base du projet"
+5. git remote add origin https://github.com/fatidb/The7GameBot.git
+6. git push -u origin master
+7. git status
+
+### Memo Notes:
+- Ensure all files are added to the repository.
+- Verify remote origin is correctly configured.
+- Confirm successful synchronization with GitHub.
