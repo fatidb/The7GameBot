@@ -1,0 +1,15 @@
+﻿# Liens Importants
+- GitHub Repository : https://github.com/fatidb/GREENLAB-TEST-VERSION
+- Documentation de l'API IA : À remplir
+
+# Clés API
+- Clé API IA : À remplir
+
+# Commandes Utiles
+- Exécuter PowerShell : powershell
+- Installer les dépendances : pip install -r requirements.txt
+
+# Tâches à Faire
+- [ ] Configurer l'API IA
+- [ ] Développer l'interface PowerShell
+- [ ] Tester la console
