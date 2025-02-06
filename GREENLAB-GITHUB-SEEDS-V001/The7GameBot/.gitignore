@@ -1,0 +1,10 @@
+﻿# Security
+config.json
+node_modules/
+
+# Backups
+backup/
+*.bak
+
+# Logs
+*.log
