@@ -1,6 +1,3 @@
-Here’s a well-formatted `README.md` in English with a functional Discord invite link:
-
----
 
 # The7GameBot  
 *THE GREENLAB ZONE PROJECT*  
